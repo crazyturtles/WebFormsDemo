@@ -272,7 +272,7 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Person.cs" />
+    <Compile Include="Student.cs" />
     <Compile Include="Pages\StudentForm.aspx.cs">
       <DependentUpon>StudentForm.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
