@@ -11,7 +11,7 @@ namespace WebFormsDemo
 {
 
 
-    public partial class PersonForm
+    public partial class StudentForm
     {
 
         /// <summary>

@@ -42,7 +42,7 @@
             <div class="navbar navbar-inverse">
                 <nav class="navbar navbar-expand-md navbar-light fixed-top">
                     <a class="navbar-brand" href="Default.aspx" runat="server">
-                            <strong>Student-Robbin Law</strong>
+                            <strong>Rohan Matharu</strong>
                     </a>
                     <button class="navbar-toggler" type="button"
                             data-toggle="collapse" data-target="#navbarMenuName"
@@ -61,9 +61,9 @@
                                 </a>
                                 <div class="dropdown-menu" aria-labelledby="navbarSubMenu">
                                     <a class="dropdown-item"
-                                            href="~/Pages/PersonForm.aspx"
+                                            href="~/Pages/StudentForm.aspx"
                                             style="color:black" runat="server">
-                                            PersonForm
+                                            StudentForm
                                     </a>
                                 </div>
                             </li>
@@ -84,6 +84,7 @@
                 </nav> 
             </div>
         </div>
+
 
         <div class="container body-content">
             <asp:ContentPlaceHolder ID="MainContent" runat="server">
